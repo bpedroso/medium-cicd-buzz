@@ -1,4 +1,4 @@
-# CICD Buzz (code validation from cicd sample)
+# Python Rest Service with CICD
 
 ## Pipeline - TracisCI
 https://travis-ci.org/bpedroso/medium-cicd-buzz
@@ -13,5 +13,5 @@ https://bettercodehub.com/results/bpedroso/medium-cicd-buzz
 https://cloud.docker.com/swarm/bpedroso
 
 
-## Medium Article
+## Based on Medium Article
 https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b
