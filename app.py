@@ -1,7 +1,7 @@
 import os
 import signal
 from flask import Flask
-from buzz import generator
+from api import generator
 
 app = Flask(__name__)
 
