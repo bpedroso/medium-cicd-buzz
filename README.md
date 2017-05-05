@@ -8,7 +8,7 @@
 ------------------------------------------------
 
 ## Pipeline - TracisCI
-https://travis-ci.org/bpedroso/medium-cicd-buzz
+https://travis-ci.org/bpedroso/pyrest
 
 ## Issue Tracker
 https://waffle.io/bpedroso/pyrest
