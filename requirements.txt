@@ -1,3 +1,14 @@
-pytest==3.0.6
-Flask==0.12
-flask-restful==0.3.5
+#pytest==3.0.6
+#Flask==0.12
+#flask-restful==0.3.5
+
+Django==1.10
+coreapi==2.3.0
+Markdown==2.6.8
+django-filter==1.0.2
+django-crispy-forms==1.2.1
+django-guardian==1.4.8
+
+pytest
+pytest-cov
+pytest-django
