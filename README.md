@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/bpedroso/pyrest.png?label=ready&title=Ready)](https://waffle.io/bpedroso/pyrest)
 # Python Rest Service with CICD
 
 [![Build Status](https://travis-ci.org/bpedroso/medium-cicd-buzz.svg)](https://travis-ci.org/bpedroso/medium-cicd-buzz) [![BCH compliance](https://bettercodehub.com/edge/badge/bpedroso/pyrest?branch=master)](https://bettercodehub.com/)
